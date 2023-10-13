@@ -1,5 +1,7 @@
 
-puts "os operadores disponiveis para as contas matematicas são: + , - , / , * são soma, subtração, divisão e multiplicação respectivamente, aproveite! :)"
+puts "os operadores disponiveis para as contas matematicas são:
++ , - , / , *
+são eles: soma, subtração, divisão e multiplicação respectivamente, aproveite! :)"
 
 puts "escreva o primeiro numero: "
 num1 = gets.chomp().to_f
