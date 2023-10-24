@@ -1,6 +1,4 @@
 
-file = File.open("informacoes.txt", "r")
-
-
-
-file.close()
+file = File.open("informacoes.txt", "r+")
+  file.readline()
+  file.write("zerado")
